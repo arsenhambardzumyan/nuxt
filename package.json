@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run nuxt\" \"npm run start:json-server\"",
+    "nuxt": "nuxt dev",
+    "start:json-server": "json-server --watch server/DB.json -p 3005",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.16.3",
+    "nuxt": "^3.15.0",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.1"
+  }
+}

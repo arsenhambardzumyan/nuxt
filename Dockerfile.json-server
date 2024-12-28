@@ -1,0 +1,17 @@
+# Use the official Node.js image
+FROM node:18
+
+# Set the working directory
+WORKDIR /server
+
+# Install json-server globally
+RUN npm install -g json-server
+
+# Copy DB.json to the container
+COPY ./server/DB.json /server/DB.json
+
+# Expose the port JSON server will run on
+EXPOSE 3005
+
+# Start the json-server
+CMD ["json-server", "--watch", "/server/DB.json", "--host", "0.0.0.0", "--port", "3005"]

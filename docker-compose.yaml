@@ -1,0 +1,22 @@
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"  # Exposes React app on port 3000
+    volumes:
+      - .:/app  # Syncs local code with container (fix: bind the entire current directory to /app)
+    working_dir: /app  # Sets working directory to /app for commands
+    command: npm start  # Runs the React app in development mode
+    depends_on:
+      - json-server  # Depends on json-server service
+
+  json-server:
+    image: json-server:latest
+    build:
+      context: .
+      dockerfile: Dockerfile.json-server  # Use the correct Dockerfile for json-server
+    ports:
+      - "3005:3005"  # Exposes JSON server on port 3005
+    volumes:
+      - ./server/DB.json:/server/DB.json  # Maps your DB file
+    command: "json-server --watch /server/DB.json --host 0.0.0.0 --port 3005"  # Starts json-server

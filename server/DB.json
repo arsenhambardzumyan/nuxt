@@ -1,0 +1,422 @@
+{
+  "toDos": [
+    {
+      "id": "1735362406799",
+      "title": "Workday Planning",
+      "item": [
+        {
+          "id": "1735362424346",
+          "task": "Check emails.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362431061",
+          "task": "Create a priority list for the day.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362544111",
+          "task": "Schedule meetings.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362550608",
+          "task": "Write down new tasks",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362557278",
+          "task": "Review completed tasks.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362564114",
+          "task": "Prepare necessary documents.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362570702",
+          "task": "Organize an online meeting.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362576522",
+          "task": "Monitor project progress.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362584411",
+          "task": "Update team members.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362590168",
+          "task": "Wrap up the day's tasks.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735362605049",
+      "title": "Household Chores",
+      "item": [
+        {
+          "id": "1735362610558",
+          "task": "Do a general house cleanup.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362616805",
+          "task": "Load the washing machine.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362622826",
+          "task": "Organize the rooms.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362627793",
+          "task": "Refresh water for plants.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362633640",
+          "task": "Declutter unnecessary items.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362638847",
+          "task": "Arrange kitchen tools.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362645159",
+          "task": "Check lights and appliances.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362660106",
+          "task": "Take out needed items from the fridge.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362666905",
+          "task": "Vacuum the carpets.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362673238",
+          "task": "Inspect the overall house condition.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735362843932",
+      "title": "Personal Development Plan",
+      "item": [
+        {
+          "id": "1735362850010",
+          "task": "Read 20 pages of a book.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362855840",
+          "task": "Write an article or journal entry.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362861102",
+          "task": "Attend an online course.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362866289",
+          "task": "Learn a new skill.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362872036",
+          "task": "Update your personal blog.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362878161",
+          "task": "Watch an educational video.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362883708",
+          "task": "Explore a new technology.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362889481",
+          "task": "Review your progress.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362895259",
+          "task": "Create a new development plan.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735362901851",
+          "task": "Record your achievements.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735363383518",
+      "title": "Weekly Cooking Plan",
+      "item": [
+        {
+          "id": "1735363560200",
+          "task": "Choose meals for the week.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363566070",
+          "task": "Make a shopping list.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363571453",
+          "task": "Stock up on pantry essentials.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363576462",
+          "task": "Try a new recipe.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363582273",
+          "task": "Prepare ingredients in advance.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735363495192",
+      "title": "Fitness Routine",
+      "item": [
+        {
+          "id": "1735363533519",
+          "task": "Cool down and relax.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363540168",
+          "task": "Record your fitness goals.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363547222",
+          "task": "Plan your meals post-workout.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735363634948",
+      "title": "Weekend Relaxation",
+      "item": [
+        {
+          "id": "1735363641165",
+          "task": "Sleep in and rest well.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363645774",
+          "task": "Watch your favorite TV series or movie.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363651090",
+          "task": "Read a novel or magazine.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363656299",
+          "task": "Spend time outdoors in nature.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735363666263",
+      "title": " Fitness Goals",
+      "item": [
+        {
+          "id": "1735363672404",
+          "task": "Warm up with stretching exercises.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363677850",
+          "task": "Complete a 15-minute cardio session.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363682809",
+          "task": "Do 10 push-ups and 15 squats.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363688668",
+          "task": "Go for a morning jog or evening walk.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363697518",
+          "task": "Track daily physical activity.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735363713596",
+      "title": " Learning a New Language",
+      "item": [
+        {
+          "id": "1735363743433",
+          "task": "Learn 10 new words or phrases",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363756304",
+          "task": "Practice conversation with a language partner.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363724025",
+          "task": "Practice pronunciation with an audio guide.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363718847",
+          "task": "Revise vocabulary from previous lessons.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363764434",
+          "task": "Take a quiz to assess your progress.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363735708",
+          "task": "Watch a short video in the target language.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363730375",
+          "task": "Write 5 sentences using new words",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735363780266",
+      "title": " Gardening Day",
+      "item": []
+    },
+    {
+      "id": "1735363790191",
+      "title": "Creative Arts Project",
+      "item": []
+    },
+    {
+      "id": "1735363800111",
+      "title": "Tech Exploration",
+      "item": [
+        {
+          "id": "1735363831833",
+          "task": "Create a small tech-related challenge for yourself.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363839292",
+          "task": "Test a new app or website design.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    },
+    {
+      "id": "1735363904489",
+      "title": "Learning Goals",
+      "item": [
+        {
+          "id": "1735363909605",
+          "task": "Identify a topic or subject you want to focus on today.",
+          "isCompleted": false,
+          "isEdit": false
+        },
+        {
+          "id": "1735363916085",
+          "task": "Watch a detailed video tutorial on the topic.",
+          "isCompleted": false,
+          "isEdit": false
+        }
+      ]
+    }
+  ]
+}
